@@ -9,7 +9,7 @@ This project demonstrates data cleaning techniques and transformation using MySQ
 ## Files
 - `data_cleaning_script.sql`: Contains SQL queries for data cleaning steps.
 - `layoff.csv`: Original dataset before cleaning.
-- `cleaned_dataset.csv`: Final dataset after cleaning (if allowed to share).
+- `cleaned_dataset.csv`: Final dataset after cleaning.
 
 ## Results
 - **Error Reduction**: 65% reduction in data errors.
